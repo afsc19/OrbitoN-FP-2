@@ -1,7 +1,7 @@
 # OrbitoN - Fundamentos da Programação - Projeto 2
 Projeto 2 de Fundamentos da Programação (LEIC-A 24/25 - IST).
 
-O projeto consiste num [jogo do tipo MNK](https://boardgamegeek.com/boardgame/383733/orbito) desenvolvido em Python.
+O projeto consiste numa adaptação do jogo [Orbito](https://boardgamegeek.com/boardgame/383733/orbito) desenvolvido em Python.
 
 Consulta o [Enunciado](https://github.com/afsc19/OrbitoN-FP-2/blob/main/FP-2024-P2_fixed.pdf) para mais informações.
 
