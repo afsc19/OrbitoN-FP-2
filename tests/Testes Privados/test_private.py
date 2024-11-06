@@ -3,7 +3,7 @@ import sys
 projet_filename = '/Users/alberto/WORK/local/FP24/p2/FP2425P2.py'
 TAD_CODE_PATH = '/Users/alberto/WORK/local/FP24/p2/TAD_code/'
 SAMPLE_DIR = '/Users/alberto/WORK/local/FP24/p2/expected/'
-# from FP2425P2 import * 
+from FP2425P2 import * 
 
 @pytest.fixture(autouse=True)
 def run_around_tests():
